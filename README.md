@@ -11,7 +11,7 @@ Utilized pivot tables for insightful reports, employing Power Query for data tra
 ### Importance:
 Empower businesses to monitor sales activities, recognize patterns, and track Key Performance Indicators (KPIs).
 
-## Highlights 📊📈
+## Highlights 
 - Conducted extensive data extraction, transformation, and loading (ETL) from various sources.
 - Utilized Power Query for comprehensive data cleaning, ensuring reliable insights.
 - Employed data modeling techniques like star schema for efficient data representation.
@@ -19,7 +19,7 @@ Empower businesses to monitor sales activities, recognize patterns, and track Ke
 - Leveraged pivot tables and advanced functions for effective analysis.
 - Utilized conditional formatting for data visualization and trend highlighting.
 
-## Finance Project: Mastering Profit and Loss (P&L) Statement Analysis 🚀
+## Finance Project: Mastering Profit and Loss (P&L) Statement Analysis 
 - Acquired a comprehensive understanding of P&L statement components.
 - Calculated Gross Margin and Gross Margin % for profitability assessment.
 - Utilized advanced Excel functions for accurate financial representation.
@@ -54,15 +54,15 @@ Analyzes key financial indicators across countries, offering a comprehensive vie
 - Pivot Table Reports: Crafted business reports for clarity.
 - User Empathy: Designed user-centric reports.
 
-## Objective 🎯
+## Objective 
 As a data analyst, I tackled AtliQ Hardware's data challenges, enabling data-driven decisions for growth.
 
-## Accomplishments 📈
+## Accomplishments 
 - Analyzed over 1 million rows of data using advanced Excel techniques.
 - Provided insights into top countries, net sales growth, and financial performance.
 - Presented reports with impactful visualizations.
 
-## Tools & Techniques 🛠️
+## Tools & Techniques 
 - Excel Formulas: Basic and Advanced.
 - Conditional Formatting for Data Enhancement.
 - Dynamic Pivot Tables.
@@ -71,5 +71,5 @@ As a data analyst, I tackled AtliQ Hardware's data challenges, enabling data-dri
 - Introduction to DAX (Data Analysis Expressions).
 - Professional Report Polishing.
 
-## Conclusion 🚀
+## Conclusion 
 This project equips AtliQ Hardware with insights to boost sales strategies and profitability, demonstrating the power of Excel in data-driven decision-making.
